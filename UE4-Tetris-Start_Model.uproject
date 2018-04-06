@@ -3,11 +3,10 @@
 	"EngineAssociation": "4.19",
 	"Category": "",
 	"Description": "",
-	"Modules": [
+	"Plugins": [
 		{
-			"Name": "treinamentodia4",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"Name": "ApexDestruction",
+			"Enabled": true
 		}
 	]
 }
